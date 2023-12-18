@@ -1,0 +1,39 @@
+## datatype conversion
+## implicit conversion
+## explicit conversion
+word1="45"
+word2=int("45")
+num1=str(45)
+print(word2)
+print(word1)
+print(num1)
+
+## operators
+## arithemetic operator
+## assignment operator
+## comparism operator
+## identity operator
+## membership operator
+## logical operator
+
+## Arithemetic operation
+## Division \
+## Addition +
+## Mutiplication *
+## Floor Division \\
+## Exponatia **
+## subtraction -
+
+## input funtion ()
+user=input("what is your name:")## input prompt a user to input a particular value or information.
+print(user)
+
+## input() and arithemetic
+num1=int(input("what is the numer:"))
+num2=int(input("what is the second number:"))
+print(f'{num1} + {num2} = {num1 + num2}')
+print(f'{num1} / {num2} = {num1 / num2}')
+print(f'{num1} * {num2} = {num1 * num2}')
+print(f'{num1} // {num2} = {num1 // num2}')
+print(f'{num1} ** {num2} = {num1 ** num2}')
+print(f'{num1} - {num2} = {num1 - num2}')
